@@ -139,6 +139,7 @@ section.header .content {
   -moz-align-items: center;
   -ms-align-items: center;
   align-items: center;
+  margin-left: 1em;
 }
 section.header .container .logo {
   max-width: 100px;
